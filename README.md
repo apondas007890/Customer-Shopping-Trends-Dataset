@@ -134,9 +134,3 @@ Computed descriptive statistics (`summary()`) on the cleaned dataset for:
 
 ---
 
-## 👤 Author
-
-**Course:** Introduction to Data Science  
-**Section:** A  
-**Exam:** Midterm Lab Project  
-**Institution:** American International University-Bangladesh (AIUB)
